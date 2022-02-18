@@ -1,6 +1,10 @@
 # PruebaTecnicaColegioFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Generar una pantalla en la cual se seleccione el profesor y liste las asignaturas que tiene, así como los estudiantes inscritos a cada asignatura.
+
+![image](https://user-images.githubusercontent.com/98467689/154753373-4eae81e4-bf6b-4994-bb01-4b1ef53e739d.png)
+
 
 ## Development server
 
